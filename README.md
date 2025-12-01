@@ -61,6 +61,8 @@ The `.app` file will be in the `dist` folder.
 
 Built with Python and tkinter for cross-platform compatibility.
 
+Developed with assistance from [Claude Code](https://claude.com/claude-code).
+
 ## License
 
 MIT License - feel free to use and modify!
